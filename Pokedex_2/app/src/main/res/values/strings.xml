@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Pokédex</string>
+    <string name="pokemon_detail_title">Detalhes do pokémon</string>
+    <string name="done">Pronto</string>
+    <string name="name">Nome</string>
+    <string name="location">Localização</string>
+    <string name="weight">Peso</string>
+    <string name="height">Altura</string>
+    <string name="pokemon_number_format">#%03d</string>
+    <string name="empty_message">Nada além de rastros por aqui...</string>
+    <string name="height_format">%.1f m</string>
+    <string name="weight_format">%.1f kg</string>
+    <string name="invalid_fiels_message">Campos inválidos</string>
+    <string name="error_message">Algo de errado não está certo...</string>
+    <string name="success_message">Sucesso!</string>
+</resources>
